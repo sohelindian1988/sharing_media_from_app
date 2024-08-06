@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo Application 2024</string>
+    <string name="username">User Name</string>
+    <string name="send">Send</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="open_website">Open Website</string>
+    <string name="share">Share</string>
+    <string name="any_image">Any Image</string>
+</resources>
